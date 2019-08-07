@@ -25,7 +25,7 @@ const DefaultDemandsAttention = AttentionHandler._onWindowDemandsAttention;
 
 function enable() {
     if (!connectNewHandlers(skipNotification)) {
-        throw new Error('The signal hanlder ids required for this extension to function are not present.');
+        throw new Error('The signal handler ids required for this extension to function are not present.');
     }
 }
 
