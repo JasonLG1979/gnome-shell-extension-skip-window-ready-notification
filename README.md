@@ -1,7 +1,7 @@
 # gnome-shell-extension-mpris-indicator-button
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
- Skips the "Window is Ready" notification and instead just focus the window in GNOME Shell 3.32+
+ Skips the "Window is Ready" notification and instead just focuses the window in GNOME Shell 3.32+
 
 <b>Please take the time to glance at the [code of conduct](https://github.com/JasonLG1979/gnome-shell-extension-skip-window-ready-notification/blob/master/CODE_OF_CONDUCT.md).</b>
  
